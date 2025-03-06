@@ -26,3 +26,4 @@ std::vector<int> sortedSquares(std::vector<int>& nums) {
         }
         return result;
     }
+
